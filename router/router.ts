@@ -1,4 +1,4 @@
-import {routes} from "./routes.js"
+import {routes} from "./routes.ts"
 import Error from "../src/pages/clientError/ClientError.js"
 
 const parseLocation = () => location.hash.slice(1).toLowerCase() || '/';

@@ -1,6 +1,6 @@
 import * as cls from './registration.module.scss'
 import registrationTpl from './registration.hbs'
-// password, phone
+
 const data = {
   headerText: "Регистрация",
   fields: [

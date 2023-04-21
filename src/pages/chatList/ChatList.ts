@@ -1,10 +1,10 @@
+
 import * as cls from './chatList.module.scss'
 import chatListTpl from './chatList.hbs'
 
 const data = {
   linkToProfile: "Профиль",
   searchPlaceholder: "Поиск",
-
   chatList: [
     {
       userName: "Андрей",
